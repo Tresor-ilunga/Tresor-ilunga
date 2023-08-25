@@ -15,7 +15,7 @@
 
  ### Visitor count
 
-<img src="https://profile-counter.glitch.me/Melvynx/count.svg" />
+<img src="https://profile-counter.glitch.me/Tresor/count.svg" />
 
 Added the `Mon 3 Jan 2022`
 
