@@ -3,7 +3,7 @@
 ### Contact me
 
 * [Twitter](https://twitter.com/tresor_ilunga__)
-* [Mail](ilungat82@gmail.com)
+* [Mail](mailto:ilungat82@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/tresor-ilunga/)
 
 [![Dreeckan](https://github-profile-trophy.vercel.app/?username=Tresor-ilunga&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
