@@ -1,5 +1,7 @@
 ### Hello There 👋
 
+<h1 align="center"><img src="./name.svg" ></h1>
+
 ### Contact me
 
 * [Twitter](https://twitter.com/tresor_ilunga__)
