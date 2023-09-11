@@ -11,9 +11,20 @@
 [![Dreeckan](https://github-profile-trophy.vercel.app/?username=Tresor-ilunga&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 ## ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tresor-ilunga&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/Tresor-ilunga"><img alt="Tresor' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
+        </td>
+        <td>
+            <a href="http://www.github.com/Tresor-ilunga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tresor-ilunga&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+        </td>
+        </td>
+        <td>
+            <a align="center" href="https://github.com/Tresor-ilunga"><img alt="Rodgers' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tresor-ilunga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+        </td>
+    </tr>
+</table>
 
  ### Visitor count
 
