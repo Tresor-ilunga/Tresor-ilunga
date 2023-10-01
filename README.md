@@ -11,7 +11,7 @@
 
 <h3 align="center"> 📫 How to reach me ilungat82@gmail.com</h3>
 
-<h3 align="center">⚡ I want to impact the lives of others using code.</h3>
+<h3 align="center">⚡ I want to use my coding skills to solve problems and improve lives.</h3>
 
 <h3 align="center">Connect with me: <p>
 <a href="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
