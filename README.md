@@ -1,38 +1,56 @@
-<h1 align="center"><img src="./name.svg" ></h1>
+# Hi, I'm Trésor ILUNGA! 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tresor-ilunga/count.svg" />
-</p>
+I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-<h3 align="center">Hello There 👋</h3>
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<h3 align="center"> 🌱 I’m actively building in PHP Symfony</h3>
+## 🚀 About Me
 
-<h3 align="center"> 📫 How to reach me ilungat82@gmail.com</h3>
+- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-<h3 align="center">⚡ I want to use my coding skills to solve problems and improve lives.</h3>
-
-<h3 align="center">Connect with me: <p>
-<a href="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tresor-ilunga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tresor-ilunga/" height="30" width="40" /></a>
-</p>
-</h3>
+## My Articles
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 
-<h2 align="center">⭐  My Github Stats</h2>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/Tresor-ilunga"><img alt="Tresor' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" />
-        </td>
-        <td>
-            <a href="http://www.github.com/Tresor-ilunga"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tresor-ilunga&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-        </td>
-        </td>
-        <td>
-            <a align="center" href="https://github.com/Tresor-ilunga"><img alt="Tresor' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tresor-ilunga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-        </td>
-    </tr>
-</table>
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
