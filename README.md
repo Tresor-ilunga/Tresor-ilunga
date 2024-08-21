@@ -13,10 +13,11 @@ I help companies of all sizes develop customized frontend and backend technical 
 
 ## 📬 Get in Touch
 
-<h3 align="center"><p>
-<a href="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tresor_ilunga__?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tresor-ilunga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tresor-ilunga/" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/tresor-ilunga/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-TresorIlunga-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/Tresor Ilunga"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-TresorIlunga-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:ilungat82@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-TresorIlunga-blue?style=flat-square"></a>
 </p>
-</h3>
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
