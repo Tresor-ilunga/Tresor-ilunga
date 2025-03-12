@@ -1,8 +1,8 @@
 # Hi, I'm Trésor ILUNGA! 👋
 
-Since 2019, I've been a web developer with particular expertise in the Symfony framework (PHP). My career path consists of diving into the world of web development, exploring new ideas and sharing my knowledge with the community.
+Since 2021, I've been a Web Developer, Web Marketing | Growth Marketer, with particular expertise in the Symfony framework (PHP). My career path consists of diving into the world of Web development, exploring new ideas and sharing my knowledge with the community.
 
-I help companies of all sizes develop customized Backend technical solutions, focusing on code quality and the added value of the features I develop.
+I help companies of all sizes to develop tailor-made technical backend solutions, focusing on the quality of the code and the added value of the features I develop.
 
 <p align="center"> 
   Visitor count<br>
