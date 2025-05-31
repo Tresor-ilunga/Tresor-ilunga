@@ -1,8 +1,15 @@
 # Hi, I'm Trésor ILUNGA! 👋
 
-Since 2021, I've been a Web developer and Growth Marketer, with expertise in Symfony (PHP). My career path consists of diving into the world of Web development, exploring new ideas and sharing my knowledge with the community.
+Passionné par l’automatisation et le growth marketing, je contribue à la stratégie d’Adversenet, une entreprise destinée à créer des solutions autonomes pour les entreprises qui veulent développer leur business. Elle apporte une expertise en automatisation à la demande pour vous fournir des solutions digitales sur mesure, adaptées à vos besoins spécifiques.
 
-I help companies of all sizes to develop tailor-made technical backend solutions, focusing on the quality of the code and the added value of the features I develop.
+Mission : rendre le digital accessible et stratégique. Nous plaçons l’efficacité et la personnalisation au cœur de chaque solution pour générer un véritable impact.
+
+Nous accompagnons les PME, entrepreneurs et structures innovantes à : 
+
+– Déployer des systèmes d’automatisation simples et puissants ;
+– Élaborer des stratégies de growth marketing centré sur les résultats ;
+– Gagner du temps, mieux convertir et évoluer plus vite dans un environnement digital exigeant.
+
 
 <p align="center"> 
   Visitor count<br>
