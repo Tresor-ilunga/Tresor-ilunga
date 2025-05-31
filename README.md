@@ -4,10 +4,10 @@ Passionate about automation and growth marketing, I contribute to the strategy o
 
 Mission: to make digital accessible and strategic. We place efficiency and personalization at the heart of every solution to generate real impact.
 
-We support SMEs, entrepreneurs, and innovative organizations in: 
+We support PME, entrepreneurs, and innovative organizations in: 
 
-– Deploying simple and powerful automation systems;
-– Developing results-driven growth marketing strategies;
+– Deploying simple and powerful automation systems
+– Developing results-driven growth marketing strategies
 – Saving time, improving conversion rates, and evolving more quickly in a demanding digital environment.
 
 
