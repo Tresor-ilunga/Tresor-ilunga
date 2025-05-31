@@ -10,7 +10,6 @@ We support PME, entrepreneurs, and innovative organizations in:
 – Developing results-driven growth marketing strategies
 – Saving time, improving conversion rates, and evolving more quickly in a demanding digital environment.
 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tresor-ilunga/count.svg" />
