@@ -1,14 +1,14 @@
 # Hi, I'm Trésor ILUNGA! 👋
 
-Passionné par l’automatisation et le growth marketing, je contribue à la stratégie d’Adversenet, une entreprise destinée à créer des solutions autonomes pour les entreprises qui veulent développer leur business. Elle apporte une expertise en automatisation à la demande pour vous fournir des solutions digitales sur mesure, adaptées à vos besoins spécifiques.
+Passionate about automation and growth marketing, I contribute to the strategy of Adversenet, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
 
-Mission : rendre le digital accessible et stratégique. Nous plaçons l’efficacité et la personnalisation au cœur de chaque solution pour générer un véritable impact.
+Mission: to make digital accessible and strategic. We place efficiency and personalization at the heart of every solution to generate real impact.
 
-Nous accompagnons les PME, entrepreneurs et structures innovantes à : 
+We support SMEs, entrepreneurs, and innovative organizations in: 
 
-– Déployer des systèmes d’automatisation simples et puissants ;
-– Élaborer des stratégies de growth marketing centré sur les résultats ;
-– Gagner du temps, mieux convertir et évoluer plus vite dans un environnement digital exigeant.
+– Deploying simple and powerful automation systems;
+– Developing results-driven growth marketing strategies;
+– Saving time, improving conversion rates, and evolving more quickly in a demanding digital environment.
 
 
 <p align="center"> 
