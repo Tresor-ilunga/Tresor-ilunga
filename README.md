@@ -2,7 +2,7 @@
 
 Passionate about automation and growth marketing, I contribute to the strategy of Adversenet, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
 
-Mission: to make digital accessible and strategic. We place efficiency and personalization at the heart of every solution to generate real impact.
+Mission : Providing automated digital solutions to improve performance, accelerate growth, and maximize the impact of businesses in their market. 
 
 We support PME, entrepreneurs, and innovative organizations in: 
 
