@@ -1,6 +1,6 @@
 # Hi, I'm Trésor ILUNGA! 👋
 
-Passionate about automation and growth marketing, I contribute to the strategy of Adversenet, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
+Passionate about automation and growth marketing, I contribute to the strategy of Tim Digital, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
 
 Mission : Providing customized digital solutions to improve performance, accelerate growth, and maximize the impact of companies in their market. 
 
