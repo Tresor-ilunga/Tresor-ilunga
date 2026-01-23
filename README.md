@@ -1,4 +1,4 @@
-# Hi, I'm Trésor ILUNGA! 👋
+# Hi, I'm Trésor ILUNGA ! 👋
 
 Passionate about automation and growth marketing, I contribute to the strategy of Tim Digital, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
 
