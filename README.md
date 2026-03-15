@@ -10,10 +10,10 @@ We support PME, entrepreneurs, and innovative organizations in:
 – Developing results-driven growth marketing strategies
 – Saving time, improving conversion rates, and evolving more quickly in a demanding digital environment.
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tresor-ilunga/count.svg" />
-</p>
+</p> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
