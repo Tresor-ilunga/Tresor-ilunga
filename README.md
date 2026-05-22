@@ -1,14 +1,8 @@
 # Hi, I'm Trésor ILUNGA ! 👋
 
-Passionate about automation and growth marketing, I contribute to the strategy of Tim Digital, a company dedicated to creating autonomous solutions for businesses looking to grow their business. It provides on-demand automation expertise to deliver customized digital solutions tailored to your specific needs.
+Automation and growth marketing are integral to my approach to designing and developing beautiful, intuitive, and accessible performance-driven websites.
 
-Mission : Providing customized digital solutions to improve performance, accelerate growth, and maximize the impact of companies in their market. 
-
-We support PME, entrepreneurs, and innovative organizations in: 
-
-– Deploying simple and powerful automation systems
-– Developing results-driven growth marketing strategies
-– Saving time, improving conversion rates, and evolving more quickly in a demanding digital environment.
+I am passionate about using automation and growth marketing to create effective, performance-driven digital solutions. This synergy between coding logic and design sensibility allows me to work effectively throughout the entire process, independently.
 
 ![](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
