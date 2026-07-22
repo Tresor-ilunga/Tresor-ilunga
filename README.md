@@ -1,8 +1,6 @@
 # Hi, I'm Trésor ILUNGA ! 👋
 
-Automation and growth marketing are integral to my approach to designing and developing beautiful, intuitive, and accessible performance-driven websites.
-
-I am passionate about using automation and growth marketing to create effective, performance-driven digital solutions. This synergy between coding logic and design sensibility allows me to work effectively throughout the entire process, independently.
+Growth Marketer and Web Developer specializing in designing acquisition strategies, marketing automation, and developing high-performance digital solutions. I help companies grow through data analysis, conversion optimization, modern web development, and the integration of CRM and automation tools.
 
 ![](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
