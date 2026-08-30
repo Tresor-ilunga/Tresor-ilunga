@@ -6,7 +6,9 @@ Visitor count
 
 ![Visitor count](https://profile-counter.glitch.me/Tresor-ilunga/count.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tresor-ilunga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) -->
 
 ## 📬 Get in Touch
 
